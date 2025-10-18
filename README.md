@@ -1,6 +1,6 @@
 **TechnipFMC Subsea 2.0 Sourcing Strategy Project**
 
-The project involves TechnipFMC fulfilling a contract to provide 40 next-generation "Subsea 2.0" Christmas Trees. These Subsea Trees are equipment attached to the wellhead that monitors and controls the flow of hydrocarbons.
+The project involves TechnipFMC fulfilling a contract to provide 40 next-generation "Subsea 2.0" Trees. These Subsea Trees are equipment attached to the wellhead that monitors and controls the flow of hydrocarbons.
 
 
 A sourcing strategy was required to obtain the parts needed to complete this contract. The strategic focus was on achieving operational efficiency and ethical sourcing.
